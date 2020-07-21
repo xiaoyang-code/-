@@ -11,19 +11,19 @@
     </van-swipe>
      <ul class="nav">
          <li class="">
-             <img src="/static/cd1.7808faf.png" alt="">
+             <img src="/static/1.png" alt="">
              <p>签到</p>
          </li>
           <li class="">
-             <img src="/static/cd1.7808faf.png" alt="">
+             <img src="/static/2.png" alt="">
             <p>礼券</p>
          </li>
           <li class="">
-             <img src="/static/cd1.7808faf.png" alt="">
+             <img src="/static/3.png" alt="">
             <p>砍价</p>
          </li>
           <li class="">
-             <img src="/static/cd1.7808faf.png" alt="">
+             <img src="/static/4.png" alt="">
             <p>专栏</p>
          </li>
      </ul>
